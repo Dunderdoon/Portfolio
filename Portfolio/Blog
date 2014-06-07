@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html" charset="UTF-8"/>
+	<link rel="stylesheet" type="text/css" href="css.css"/>
+	
+	
+</head>
+
+<body>
+	<div id="navigate">
+	<ul>
+	<li id="start">Start</li>
+	<p id="portfolio">Portfolio</p>
+	<p id="contact">Contact</p>
+	<p id="blog">Blog</p>
+	</ul>
+	</div>
+	<div id="sidebar"><p>Start</p>
+	</div>
+	<div id="title1"><img src="title.png">
+	<p class="maintext">Jag är en teknik elev som går i 2:an på gymnasiet. Detta är min portfolio för att visa mina arbeten som jag har jobbat på.</p>
+	<p class="maintext"> Mitt senaste projekt är denna sida som du nu är på, Jag har jobbat på den i ungefär 4 veckor.</p>
+	<p class="maintext">För att veta mer om mig gå till fliken som heter contact, för att se mina arbeten klicka på portfolio.</p>
+	
+	
+	</div>
+	
+	
+	
+	
+</body>
+
+</html>
